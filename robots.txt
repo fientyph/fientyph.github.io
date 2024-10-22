@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fientyph.github.io/fientyph.fientyph
+Sitemap: https://fientyph.github.io/app/fientyph.fientyph
+Sitemap: https://fientyph.github.io/assets/fientyph.fientyph
+Sitemap: https://fientyph.github.io/css/fientyph.fientyph
+Sitemap: https://fientyph.github.io/includes/fientyph.fientyph
+Sitemap: https://fientyph.github.io/item/fientyph.fientyph
+Sitemap: https://fientyph.github.io/src/fientyph.fientyph
